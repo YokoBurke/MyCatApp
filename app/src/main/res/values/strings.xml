@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCatApp</string>
+    <string name="catquote1">Meow</string>
+    <string name="catquote2">Meow Meow</string>
+    <string name="catquote3">Meow Meow Meow</string>
+    <string name="catquote4">Meow Meow Meow Meow</string>
+    <string name="catquote5">Meow Meow Meow Meow Meow</string>
+    <string name="catquote6">Meow Meow Meow Meow Meow Meow</string>
+    <string name="catquote7">Meow Meow Meow Meow Meow Meow Meow</string>
+    <string name="catquote8">Meow Meow Meow Meow Meow Meow Meow Meow</string>
+    <string name="catquote9">Meow Meow Meow Meow Meow Meow Meow Meow Meow</string>
+    <string name="catquote10">Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</string>
+    <string name="catquote11">Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</string>
+</resources>
